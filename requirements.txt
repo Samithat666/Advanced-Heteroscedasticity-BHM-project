@@ -1,0 +1,7 @@
+
+numpy
+matplotlib
+pymc
+arviz
+statsmodels
+scikit-learn
